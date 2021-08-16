@@ -9,4 +9,4 @@
 - As tabelas Excel estavam igualmente formatadas, contando com três colunas intituladas <i>Palavra</i>, <i>Lema</i> e <i>Etiqueta</i>;
 - Os arquivos com as tabelas estavam nomeados como <i>afnxxx</i>, sendo x um número inteiro maior ou igual a zero e menor ou igual a nove. 
 
-#### O código exposto nesse repositório foi escrito por [Raul Guarini](https://github.com/raulguarini) a quem eu deixo o meu agradecimento. 
+#### O código exposto neste repositório foi escrito por [Raul Guarini](https://github.com/raulguarini) a quem eu deixo o meu agradecimento. 
